@@ -10,6 +10,6 @@ All data, including training and testing sets for cross-validation and blind tes
 A pretrained FCNN model is available in the repository.
 
 ## Notebooks
-- To use the pretrained model, refer to the notebook 'Prediction_Nb_LL' and run it in Google Colab.
-- For access to the code used for data handling, model creation, and training, refer to the notebook 'Project-Notebook' located in the 'notebooks' folder.
+- To use the pretrained model for prediction, refer to the notebook 'Prediction_Nb_LL' and run it in Google Colab.
+- For access to the code used for data handling, model creation, and training, refer to the notebook 'Project_Notebook' located in the 'notebooks' folder.
 
